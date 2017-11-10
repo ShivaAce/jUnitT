@@ -8,5 +8,4 @@ public class jUnitFun {
 	{
 		return s1+s2;
 	}
-
-}
+ }
